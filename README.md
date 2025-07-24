@@ -1,8 +1,4 @@
 <div align="center">
-    <a href="https://frappe.io/erpnext">
-    </a>
-    <h2>ERPNext</h2>
-    <p align="center">
         <p>Powerful, Intuitive and Open-Source ERP</p>
     </p>
 
