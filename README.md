@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://frappe.io/erpnext">
-	<img src="./v16/erpnext.svg" alt="ERPNext Logo" height="80px" width="80xp"/>
+	<img src="./erpnext.svg" alt="ERPNext Logo" height="80px" width="80xp"/>
     </a>
     <h2>ERPNext</h2>
     <p align="center">
