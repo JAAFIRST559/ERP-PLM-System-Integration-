@@ -3,11 +3,6 @@
     </p>
 
 </div>
-
-<div align="center">
-	<img src="hero_image.png">
-</div>
-
 <div align="center">
 </div>
 
